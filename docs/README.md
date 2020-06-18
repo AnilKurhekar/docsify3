@@ -1,4 +1,5 @@
-
+Theme 3
+=========
 Android AppShortcuts Sample
 ===================================
 
